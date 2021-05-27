@@ -1,0 +1,90 @@
+.container {
+background-color: rgb(105, 82, 82);
+text-align:center;
+padding: 0.5rem;
+height: 17vh;
+}
+.container img {
+    height:4rem;
+    width:4rem;
+    padding-bottom: 1rem;
+}
+.container input {
+    width: 8rem;
+}
+.content {
+    text-align:center;
+    font-size: 0.7rem;
+    margin-top: -1.5rem;
+}
+.content h1 {
+    padding-top:5rem;
+}
+#hero {
+    background-image: url("https://image.freepik.com/free-vector/copy-space-gradient-orange-background_23-2148845473.jpg");
+    background-size: cover;
+    min-height: 30vh;
+}
+.photos img {
+    width: 30%;
+    height: 30%;
+    border-radius: 100%;
+    padding: 0.1rem;
+    margin-top: 0.5rem;
+    padding-left: 2.5rem;
+    
+}
+h2 {
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: hotpink;
+}
+p {
+   text-align: center;
+}
+.contacts div{
+   text-align: center;
+   margin-bottom: -0.5rem;
+}
+.contacts img {
+    border-radius: 100%;
+    padding:1.2rem;
+    width: 30%;
+    height: 30%;
+}
+.contacts h4 {
+font-size: 1.5rem;
+font-weight: 600;
+text-align: center;
+color: rgb(46, 9, 53);
+margin: -0.5rem;
+}
+.contacts h5 {
+color: rgb(15, 15, 9);
+font-size: 1rem; 
+margin: -0.2rem;  
+}
+.block {
+    background-color: orange;
+    height: 1.5rem;
+    width: 100%;
+    margin-top: 2rem;
+}
+.footer {
+    text-align: center;
+    padding-bottom: 2rem;
+    background-color: grey;
+    margin-top: -1.7rem;
+
+}
+.footer h4{
+    font-size: 1.2rem;
+    font-weight: 600;
+    color: orange;
+    text-align: center;
+    margin-bottom: -0.0rem;
+    padding-top: 1rem;
+
+
+}
